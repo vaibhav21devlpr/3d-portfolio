@@ -1,4 +1,4 @@
-import Hero from "./sections/hero"
+import Hero from "./sections/Hero"
 import ShowcaseSection from "./sections/ShowcaseSection"
 import NavBar from "./components/Navbar"
 import LogoSection from "./sections/LogoSection"
