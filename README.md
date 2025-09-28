@@ -28,7 +28,7 @@ Showcases my projects, skills, and experience in an engaging and immersive way.
 
 ## 🚀 Live Demo
 
-[🔗 View Live Website](https://vaibhav21devlpr.github.io/3d-portfolio)  
+[🔗 View Live Website](https://3d-portfolio-blond-six.vercel.app/)  
 
 ---
 
